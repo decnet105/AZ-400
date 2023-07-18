@@ -7,3 +7,4 @@ Listed resources for AZ-400
 * https://aka.ms/traincertposter
 * https://aka.ms/docs
 * https://aka.ms/CourseAZ-400
+* https://esi.learnondemand.net/
