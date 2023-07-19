@@ -11,3 +11,4 @@ Listed resources for AZ-400
 * https://ohmyposh.dev/docs/themes
 * https://learnxinyminutes.com/docs/yaml/
 * https://www.yamllint.com
+* https://skills.github.com/
