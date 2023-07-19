@@ -10,4 +10,4 @@ Listed resources for AZ-400
 * https://esi.learnondemand.net/
 * https://ohmyposh.dev/docs/themes
 * https://learnxinyminutes.com/docs/yaml/
-* https://www.syamllint.com
+* https://www.yamllint.com
