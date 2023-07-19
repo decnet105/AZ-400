@@ -12,3 +12,4 @@ Listed resources for AZ-400
 * https://learnxinyminutes.com/docs/yaml/
 * https://www.yamllint.com
 * https://skills.github.com/
+* https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
