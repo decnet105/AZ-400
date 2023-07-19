@@ -13,3 +13,4 @@ Listed resources for AZ-400
 * https://www.yamllint.com
 * https://skills.github.com/
 * https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
+* https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
