@@ -17,3 +17,7 @@ Listed resources for AZ-400
 * https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli
 * https://learn.microsoft.com/en-us/training/modules/implement-bicep/3-install-bicep
 * https://bicepdemo.z22.web.core.windows.net/
+* https://learn.microsoft.com/en-us/azure/automation/automation-security-overview
+* https://github.com/azureautomation
+* https://learn.microsoft.com/en-us/azure/automation/automation-webhooks?tabs=portal
+* https://learn.microsoft.com/en-us/azure/automation/automation-powershell-workflow
