@@ -14,3 +14,5 @@ Listed resources for AZ-400
 * https://skills.github.com/
 * https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/
 * https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+* https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli
+* https://learn.microsoft.com/en-us/training/modules/implement-bicep/3-install-bicep
