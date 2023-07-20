@@ -21,3 +21,4 @@ Listed resources for AZ-400
 * https://github.com/azureautomation
 * https://learn.microsoft.com/en-us/azure/automation/automation-webhooks?tabs=portal
 * https://learn.microsoft.com/en-us/azure/automation/automation-powershell-workflow
+* [Remediate noncompliant Azure Automation State Configuration servers](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-remediate) 
